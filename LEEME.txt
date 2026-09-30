@@ -1,0 +1,17 @@
+HH RETAIL POCKET ANDROID v2
+
+PUBLICACION RECOMENDADA: GitHub Pages
+1. Crea un repositorio publico llamado hh-retail-pocket.
+2. Sube TODOS los archivos de esta carpeta a la raiz.
+3. Abre Settings > Pages.
+4. En Source elige Deploy from a branch.
+5. Elige main y /(root), luego Save.
+6. Abre en Chrome Android la direccion HTTPS mostrada por GitHub Pages.
+7. Pulsa Escanear > Iniciar escaneo inmediato y permite la camara.
+8. En Chrome, abre el menu y toca Instalar aplicacion o Agregar a pantalla principal.
+
+SI EL PERMISO QUEDO BLOQUEADO
+Chrome > Configuracion > Configuracion de sitios > Camara > busca el sitio y permite acceso.
+
+DATOS
+Los productos y auditorias se guardan localmente en el telefono. Usa Herramientas > Exportar respaldo regularmente.
